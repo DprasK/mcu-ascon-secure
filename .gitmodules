@@ -1,0 +1,3 @@
+[submodule "vendor/ascon-c"]
+	path = vendor/ascon-c
+	url = https://github.com/ascon/ascon-c.git
